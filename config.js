@@ -1,0 +1,1 @@
+var a='{"lastVersion":"1.1.1.88","lastVersionUrl":"https://raw.githubusercontent.com/jiexing2019/_test/dev/soft/GKAWHBBWE/v_1.1.1.88.zip","url":"http://jiexing.ddns.net:9000"}';
